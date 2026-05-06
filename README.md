@@ -1,6 +1,6 @@
-# 🤖 SO-100 ROS2 Robot Arm Project
+# ROS2 Robot Arm Project
 
-## 📌 Overview
+##  Overview
 
 This project implements the **SO-100 robotic arm** using ROS2, including:
 
@@ -14,13 +14,13 @@ The goal is to build a **Pick & Place robotic system with vision (YOLO)**.
 
 ---
 
-## 📸 RViz Visualization
+##  RViz Visualization
 
-### 🦾 Robot model in RViz
+### Robot model in RViz
 
 ![RViz Robot Model](images/rviz_robot.png)
 
-### 🔧 TF Tree / Joints view
+### TF Tree / Joints view
 
 ![TF Tree](images/tf_tree.png)
 
