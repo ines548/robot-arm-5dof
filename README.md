@@ -69,6 +69,9 @@ ros2 launch so_arm_100_moveit_config demo.launch.py
 
 ---
 
+## Visualisation i got 
+<img width="1213" height="801" alt="Screenshot from 2026-05-06 20-59-17" src="https://github.com/user-attachments/assets/9e5b944a-4e41-44db-98c5-a5116f830cac" />
+
 
 
 
