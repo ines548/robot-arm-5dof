@@ -12,6 +12,10 @@ This project implements the **SO-100 robotic arm** using ROS2, including:
 
 The goal is to build a **Pick & Place robotic system with vision (YOLO)**.
 
+## Pick and place motion wanted
+<img width="320" height="170" alt="rviz_pnp" src="https://github.com/user-attachments/assets/b40d3c37-4623-4c25-9df9-9ae7adb211ec" />
+
+
 
 
 ## Features
