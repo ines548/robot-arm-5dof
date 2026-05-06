@@ -12,25 +12,7 @@ This project implements the **SO-100 robotic arm** using ROS2, including:
 
 The goal is to build a **Pick & Place robotic system with vision (YOLO)**.
 
----
 
-##  RViz Visualization
-
-### Robot model in RViz
-
-![RViz Robot Model](images/rviz_robot.png)
-
-### TF Tree / Joints view
-
-![TF Tree](images/tf_tree.png)
-
-###  Motion Planning Scene (MoveIt)
-
-![MoveIt Planning](images/moveit_scene.png)
-
->  Replace these images by your real screenshots from RViz
-
----
 
 ## Features
 
