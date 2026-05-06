@@ -65,27 +65,6 @@ ros2 launch so_arm_100_moveit_config demo.launch.py
 
 ---
 
-##  How to add your RViz screenshots
-
-1. Open RViz
-2. Move robot into a nice pose
-3. Take screenshot:
-
-```bash
-gnome-screenshot -a
-```
-
-4. Save images in:
-
-```
-images/
-```
-
-5. Rename:
-
-* rviz_robot.png
-* tf_tree.png
-* moveit_scene.png
 
 
 
